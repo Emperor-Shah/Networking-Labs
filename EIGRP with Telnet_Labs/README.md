@@ -1,3 +1,5 @@
+Download this file from given link below:
+[https://github.com/Emperor-Shah/Networking-Labs/blob/main/eigrp%20telnet%20lab.pkt]
 1. Lab Objective
 The primary objective of this lab is to configure EIGRP (Enhanced Interior Gateway Routing Protocol) on multiple routers so they can exchange network information. Additionally, remote access has been configured using Telnet for network administration.
 
